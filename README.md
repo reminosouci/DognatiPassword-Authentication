@@ -1,4 +1,4 @@
-# # Dognation: Password Authentication
+# Dognation: Password Authentication
 
 # Welcome to Dognation!
 
@@ -11,4 +11,4 @@ Log in with the registered user.
 Log out to end the session.
 Feel free to explore other features of Dognation!
 
-Make sure to replace placeholders like YOUR_CHOICE with appropriate values. This README provides an overview of the project setup and key steps for implementing user authentication.
+
